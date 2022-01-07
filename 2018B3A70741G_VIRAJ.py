@@ -1,8 +1,4 @@
-##############
 
-#Your program can go here.
-
-###############
 import numpy as np
 import math
 import pickle
